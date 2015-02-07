@@ -1130,7 +1130,9 @@ elevation, and AD the Line of impulse, draw DE paral<g ref="char:EOLhyphen"/>lel
                      </row>
                   </table>
                </p>
-               <figure/>
+               <p>By <hi>Lines</hi> thus,
+<figure/>
+               </p>
                <p>In <hi>Fig.</hi> Z, if VL be made equal to P, and LE equal to G, then LO will be a mean Proportion. Further, in <hi>Fig.</hi> X, if AC be made equal to Radius, and BC equal to the sine of the Angle of Elevation; as also, AD be made equal to ½ G, that is equal to the greatest Range in the Parabola, then DE will be a fourth Proportion. Further, from the point O in <hi>Fig.</hi> Z, make OH equal to DE in <hi>Fig.</hi> X, continue the Line OH to I. Lastly, set one point of the Compasses in H, and at the distance HL, sweep the Arch ILR, then are IO and RO the Lines required.</p>
             </div>
             <div n="12" type="proposition">
@@ -1206,7 +1208,7 @@ elevation, and AD the Line of impulse, draw DE paral<g ref="char:EOLhyphen"/>lel
             <div n="13" type="proposition">
                <head>PROP. XIII. PROB. XI.</head>
                <p>THE Line of Impulse, the double of the greatest Range in the Parabola, the Ascent or Descent, and the Angle of Elevation being given. To find the Horizontal distance.</p>
-               <figure/>
+               <p>In the right angled Triangle ABC, the Angle <figure/> BAC, the double of the greatest Range G, the Line of Impulse AB, and the perpendicular Ascent BE, with this qualification, as G:DC::DC:DE, being given. To find DC=Z.</p>
                <p>Then R:<hi>r</hi>+Z::S:BC, that is <gap reason="math">
                      <desc>〈 math 〉</desc>
                   </gap> in Diag. <gap reason="math">
@@ -1251,7 +1253,9 @@ elevation, and AD the Line of impulse, draw DE paral<g ref="char:EOLhyphen"/>lel
                </p>
                <p>In <hi>Numbers,</hi> thus,</p>
                <p>Z<hi rend="sup">2</hi>=2387.17944Z−225447.4115496 whose Roots are 2288.67 and 98.51.</p>
-               <figure/>
+               <p>
+                  <pb n="16" facs="tcp:99441:13"/>By <hi>Lines</hi> thus, <figure/>
+               </p>
                <p>Upon an Ascent. In <hi>Fig.</hi> Y, if AC be made Radius, and CB the sine of the Angle of Elevation, and AD the Line of impulse, and DE drawn pa<g ref="char:EOLhyphen"/>rallel to CB, then DE will be a fourth Proportion. In <hi>Fig.</hi> Z, if OD be made equal to DE in <hi>Fig.</hi> Y, and DE in <hi>Fig.</hi> Z be made equal to the dou<g ref="char:EOLhyphen"/>ble of the greatest Range in the Parabola, then DC will be a mean Propor<g ref="char:EOLhyphen"/>tion. Further, if RC be made equal to P the perpendicular Ascent, and CB equal to the double of the greatest Range, then CA will be a mean Proportion. Again, in <hi>Fig.</hi> Y, if AC be made equal to the Radius, and CB equal to the sine of the angle of Elevation, and AD the greatest Range, then DE will be a fourth Proportion, make AE in <hi>Fig.</hi> Z, equal to DE in <hi>Fig.</hi> Y, then LA and HA are the Lines desired.</p>
                <p>By <hi>Logarithms</hi> thus,
 <table>
@@ -1446,7 +1450,10 @@ elevation, and AD the Line of impulse, draw DE paral<g ref="char:EOLhyphen"/>lel
                <gap reason="duplicate" extent="1 page">
                   <desc>〈1 page duplicate〉</desc>
                </gap>
-               <figure/>
+               <p>
+                  <pb n="18" facs="tcp:99441:16"/>By <hi>Lines</hi> thus,
+<figure/>
+               </p>
                <p>In <hi>Fig.</hi> Y, if AC be made Radius, and CB, the sine of the Angle of Ele<g ref="char:EOLhyphen"/>vation; and AD the Line of impulse; then DE will be a fourth Proportion. In <hi>Fig.</hi> X. If OD be made equal to DE in <hi>Fig.</hi> Y, and DE in <hi>Fig.</hi> X, be made equal to the double of the greatest Range, then DC will be a mean Proportion. In <hi>Fig.</hi> X, if DR be equal to the Descent, and DB equal to the double of the greatest Range, DA will be a mean proportion. Then draw the Line AC. Further, in <hi>Fig.</hi> Y. If AC be Radius, and DC the sine of the Angle of Elevation, and AD the greatest Range, then DE will be a fourth proportion. In <hi>Fig.</hi> X, draw CF (at right Angle to AC) equal to DE in <hi>Fig.</hi> Y, then set one point of the Compasses in the point F, and take the distance FC, sweep the Arch CL, then LA will be the Line desired.</p>
                <p>By <hi>Logarithms</hi> thus,
 <table>
@@ -1622,7 +1629,7 @@ elevation, and AD the Line of impulse, draw DE paral<g ref="char:EOLhyphen"/>lel
             <div n="15" type="proposition">
                <head>PROP. XV. PROB. XIII.</head>
                <p>THE greatest Range, the Horizontal distance, Perpendicular Ascent, and Line of Impulse being given. To find the Angle of Elevation; to hit the said Ascent at the Horizontal distance given.</p>
-               <figure/>
+               <p>In the right angled Triangle ABC: the double <figure/> of the greatest Range in the Parabola G, the Hori<g ref="char:EOLhyphen"/>zontal distance AB, the Ascent BE, the Line of Im<g ref="char:EOLhyphen"/>pulse AD, with this qualification G:DC::DC:CE, being given. To find the Angle BAC.</p>
                <p>Then <gap reason="math">
                      <desc>〈 math 〉</desc>
                   </gap> in Diag. Further, <gap reason="math">
@@ -1706,7 +1713,7 @@ elevation, and AD the Line of impulse, draw DE paral<g ref="char:EOLhyphen"/>lel
                <pb n="20" facs="tcp:99441:17"/>
                <head>PROP. XVI. PROB. XIV.</head>
                <p>THE double of the greatest Range in the Parabola, the Horizontal distance, the Perpendicular Ascent or Descent being given. To find whether the Object be within the Reach of the Piece or not.</p>
-               <figure/>
+               <p>The double of the greatest Range <figure/> EY, the Horizontal Distance AB, the Perpendicular Ascent BC being given. To find whether the Object C be within the Reach of the Piece or not. Let AF be the greatest Range, AE half thereof, Let ELF be a Simi-Parabola, then all the Projections from the Point A made with the same force will touch the Parabola ELF. <hi>Toricel. de Mot. Proj. lib.</hi> 2. <hi>Prop.</hi> 30.</p>
                <p>Then EY equal to 2AF, or 4AE in EO equal to the square of OL. <hi>Appol. Coni. Lib.</hi> 1. <hi>Prop.</hi> 11. Therefore if the Horizontal Distance AG be equal to OL, it is in the farthest extent of the Projection; if it be less as AB, the Point C is within; but if greater, as AI, the Point N is without, therefore beyond the Reach of the Piece, that is, if half the greatest Range, less the Altitude of the Object in Ascents, more in Descents, be multiplyed by the Parameter (equal to the double of the greatest Range) whose square Root, if less than the Hori<g ref="char:EOLhyphen"/>zontal distance, the Object is out of the Reach of the Piece.</p>
                <p>
                   <table>
@@ -4156,7 +4163,9 @@ of Elevation, the greatest Altitude of a Projection at 75 deg. of Elevation whos
                <pb n="35" facs="tcp:99441:24"/>
                <head>PROP. III.</head>
                <p>THE length of the Chase, Diameter of the Bore and force of any Piece; with the length of the Chase, and Diameter of the Bore of any other Piece being given. To find the force.</p>
-               <figure/>
+               <p>Let AB be the greatest Range of the Culverin, and CD the great<g ref="char:EOLhyphen"/>est
+<figure/>
+Range of the Basilisk. Let the natural falling of the Ball from A to B, be as the Cube of its Diameter, <hi>viz.</hi> 125 the force of the Cul<g ref="char:EOLhyphen"/>verin. The natural falling of the Ball from C to Z be as the Cube of the Diameter of the Ball of the Basilisk 97.336; the falling of the Ball from C to D be the force of the Basilisk, to be found; as the square Root of AB=CZ, is to the square Root of CD so is the force at Z, to the force at D. <hi>Torricel. de Motu Proj. Lib.</hi> II. <hi>Prop.</hi> XXII.</p>
                <p>
                   <table>
                      <row>
@@ -4308,7 +4317,9 @@ of Elevation, the greatest Altitude of a Projection at 75 deg. of Elevation whos
             <div n="5" type="proposition">
                <pb n="37" facs="tcp:99441:25"/>
                <head>PROP. V.</head>
-               <figure/>
+               <p>THE greatest Range in the Parabola, the Line of Impulse, the Angle of Elevation being given. To find the Range upon the plain of the Horizon
+<figure/>
+               </p>
                <p>The greatest Range in the Parabola 1657.2 DE, the Line of Impulse AD, the Angle KAD 45 deg. of Elevation. To find AB the Range upon the plain of the Horizon.</p>
                <p>
                   <table>
@@ -5558,7 +5569,9 @@ of Elevation, the greatest Altitude of a Projection at 75 deg. of Elevation whos
                <p>
                   <pb n="47" facs="tcp:99441:30"/>FRom what has or may be said concerning Guns in <hi>Musical</hi> and <hi>Geometrical</hi> Proportion, and what may be said concerning Guns under other Qualifica<g ref="char:EOLhyphen"/>tions, it may manifestly appear, that the business of <hi>Gun-founding</hi> lyes as open for Improvements in these days, as their Uses did when <hi>Galileus</hi> first appeared in the World: For,</p>
                <p>An Engineer draws the Draught of a Gun, and gives it a certain Fortifi<g ref="char:EOLhyphen"/>cation, the Founder founds it according to the Draught or Pattern, a Proof-Master proves it, and gives it its Requisite of Powder. <hi>Quere,</hi> Whether it be the <hi>Engineer</hi>'s or <hi>Draught-Man</hi>'s business to give it its Requisite of Powder, and consequently its Range, or the <hi>Proof-Master</hi>'s?</p>
-               <figure/>
+               <p>Then,
+<figure/>
+               </p>
                <p n="1">I. <hi>In the Diagram, Let</hi> K, G, B, <hi>and</hi> P, <hi>be any Piece of Cannon. It being demanded to increase the Mettal to</hi> I, H, A, <hi>and</hi> Q; <hi>or decrease the Mettal to</hi> L, F, C, <hi>and</hi> O; <hi>so as the strength of the Mettal</hi> K, G, B, <hi>and</hi> P, <hi>be to the strength of the Mettal</hi> I, H, A, <hi>and</hi> Q; <hi>as</hi> 3 <hi>to</hi> 7; <hi>and to</hi> L, F, C, <hi>and</hi> O, <hi>(being of the same Mettal) as</hi> 7 <hi>to</hi> 3.</p>
                <p>The Requisite of Powder, and Range at 45 degrees of Elevation of the Piece I, H, A, and Q; and the Piece L, F, C, and O, are required.</p>
                <p n="2">II. <hi>If the Lengths of the Chases of two Pieces, and the Diameters of the Bores of the same two Pieces be as</hi> 8 <hi>to</hi> 9. <hi>To give them such Mettal that the strength of one Piece may be to the strength of the other, as</hi> 3 <hi>to</hi> 7.</p>
